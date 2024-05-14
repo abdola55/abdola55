@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdalah Maghawry</h1>
-<h3 align="center">A passionate Data Analyst from Egypt who loves getting insights from data.</h3>
+<h3 align="center">A Hardware Engineer who is also a  passionate Data Analyst from Egypt who loves making boards come alive and getting insights from data.</h3>
 
-- 🔭 I’m currently working on **Improving the efficiency and reliabilty of my projects and making then more readable, easy to trace, and easy to be understood by anyone**
+- 🔭 I’m currently working on **Improving the efficiency and reliabilty of my projects for PCBs to be more reliable  and for coding making then more readable, easy to trace, and easy to be understood by anyone**
 
-- 💬 Ask me about **python , MySQL**
+- 💬 Ask me about **Altium, MATALB, python , MySQL**
 
 - 📫 How to reach me **abdalah.maghawry@gmail.com**
 
